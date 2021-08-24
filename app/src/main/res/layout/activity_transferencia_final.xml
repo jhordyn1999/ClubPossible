@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/dashboard_bg"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".TransferenciaFinal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="163dp"
+            android:layout_height="163dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/done_check" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:gravity="center"
+            android:lineSpacingExtra="7sp"
+            android:text="Transferencia\n Exitosa"
+            android:textColor="@android:color/white"
+            android:textSize="30sp" />
+        <!--
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="21dp"
+                    android:gravity="center_horizontal"
+                    android:lineSpacingExtra="9sp"
+                    android:text="Dear user your amount has been\ntransferred to your requested receipt\nthank you for using paypal"
+                    android:textColor="@android:color/white"
+                    android:textSize="14sp" />
+        -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="56dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginRight="56dp"
+            android:background="@drawable/btn_blue"
+            android:id="@+id/tc_done"
+            android:backgroundTint="#179BD7"
+
+            android:gravity="center_horizontal"
+            android:lineSpacingExtra="3sp"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:text="Ver Detalles"
+            android:textColor="#ffffff"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="56dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="56dp"
+            android:background="@drawable/btn_blue"
+            android:id="@+id/btncontinuar"
+            android:gravity="center_horizontal"
+            android:lineSpacingExtra="3sp"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:text="Continuar"
+            android:textColor="#ffffff"
+            android:textSize="17sp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

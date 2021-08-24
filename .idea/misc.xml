@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/drawable/btn_blue.xml" value="0.2203125" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/drawable/btn_celeste.xml" value="0.2203125" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/drawable/btn_edittextname.xml" value="0.2203125" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/drawable/icono_compras.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/drawable/icono_qr.xml" value="0.2203125" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/activity_establecimiento.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/activity_qr_code.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/activity_tienda.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/activity_transferencia_favorito.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/activity_transferencia_final.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/activity_trasferencia.xml" value="0.25" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/activity_usuarios_establecimiento.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/fragment_consumo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/fragment_establecimiento.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/fragment_movimiento.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/fragment_otro.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/item_transf_reciente.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/toolbar_interno.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jhord/Desktop/Jhordyn/PRACTICAS BANCO/ClubPossible/app/src/main/res/layout/transferenciafinish.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
